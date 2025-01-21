@@ -6,11 +6,11 @@ Ordertracker for a school project i made
 # Install dependencies by running:
 
 ```bash
-npm install readline-sync xlsx
+npm install express fs path XLSX bodyParser
 ```
 
 # After installation is complete, run application with this command
 
 ```bash
-node orderTracker.js
+node server.js
 ```

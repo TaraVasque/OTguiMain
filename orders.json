@@ -1,0 +1,14 @@
+[
+  {
+    "name": "test",
+    "price": 50,
+    "type": "flat",
+    "phone": "4233076217"
+  },
+  {
+    "name": "test 1",
+    "price": 10,
+    "type": "flat 1/2",
+    "phone": "4231234567"
+  }
+]
